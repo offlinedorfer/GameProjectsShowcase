@@ -1,0 +1,8 @@
+Software used: Unreal Engine, Blender, Gitlab
+
+Credits:
+David Gänsdorfer
+Deren Demircelik
+Maik Pfenning
+Peter Burkhardt
+Thore Zimmer

@@ -1,0 +1,7 @@
+Computer Graphics Group Project Using C++, QT, and OpenGL
+
+Credits:
+Christoph Fleschutz
+David Gänsdorfer
+Thore Zimmer
+Nico Schmidt

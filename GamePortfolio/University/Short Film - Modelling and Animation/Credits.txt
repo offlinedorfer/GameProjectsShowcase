@@ -1,0 +1,6 @@
+Software used: Blender
+
+Credits:
+Chegn Cheng
+David Gänsdorfer
+Timo Müller
