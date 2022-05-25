@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 13f2f338b6d7d0542a2d91a91f256e5e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Race_track
+    100002: //RootNode
+    100004: Terrain
+    100006: 28M (705-733)
+    100008: 705M
+    100010: 705M.001
+    100012: 705M.002
+    100014: 705M.003
+    100016: 707M
+    100018: 708M
+    100020: 708M.001
+    100022: 710M
+    100024: 710M.001
+    100026: 710M.002
+    100028: 711M
+    100030: 711M.001
+    100032: 715M
+    100034: 715M.001
+    100036: 715M.002
+    100038: 715M.003
+    100040: 715M.004
+    100042: 715M.005
+    100044: 716M
+    100046: 718M
+    100048: 718M.001
+    100050: 718M.002
+    100052: 731M
+    100054: 731M.001
+    100056: 733M
+    100058: BaseCube
+    100060: Cube
+    100062: Human
+    100064: Plane
+    100066: Race_track.001
+    400000: Race_track
+    400002: //RootNode
+    400004: Terrain
+    400006: 28M (705-733)
+    400008: 705M
+    400010: 705M.001
+    400012: 705M.002
+    400014: 705M.003
+    400016: 707M
+    400018: 708M
+    400020: 708M.001
+    400022: 710M
+    400024: 710M.001
+    400026: 710M.002
+    400028: 711M
+    400030: 711M.001
+    400032: 715M
+    400034: 715M.001
+    400036: 715M.002
+    400038: 715M.003
+    400040: 715M.004
+    400042: 715M.005
+    400044: 716M
+    400046: 718M
+    400048: 718M.001
+    400050: 718M.002
+    400052: 731M
+    400054: 731M.001
+    400056: 733M
+    400058: BaseCube
+    400060: Cube
+    400062: Human
+    400064: Plane
+    400066: Race_track.001
+    2100000: Track
+    2100002: Low
+    2100004: Mid
+    2100006: High
+    2100008: No Name
+    2100010: Material.001
+    2300000: Race_track
+    2300002: Terrain
+    2300004: //RootNode
+    2300006: 28M (705-733)
+    2300008: 705M
+    2300010: 705M.001
+    2300012: 705M.002
+    2300014: 705M.003
+    2300016: 707M
+    2300018: 708M
+    2300020: 708M.001
+    2300022: 710M
+    2300024: 710M.001
+    2300026: 710M.002
+    2300028: 711M
+    2300030: 711M.001
+    2300032: 715M
+    2300034: 715M.001
+    2300036: 715M.002
+    2300038: 715M.003
+    2300040: 715M.004
+    2300042: 715M.005
+    2300044: 716M
+    2300046: 718M
+    2300048: 718M.001
+    2300050: 718M.002
+    2300052: 731M
+    2300054: 731M.001
+    2300056: 733M
+    2300058: BaseCube
+    2300060: Cube
+    2300062: Human
+    2300064: Plane
+    2300066: Race_track.001
+    3300000: Race_track
+    3300002: Terrain
+    3300004: //RootNode
+    3300006: 28M (705-733)
+    3300008: 705M
+    3300010: 705M.001
+    3300012: 705M.002
+    3300014: 705M.003
+    3300016: 707M
+    3300018: 708M
+    3300020: 708M.001
+    3300022: 710M
+    3300024: 710M.001
+    3300026: 710M.002
+    3300028: 711M
+    3300030: 711M.001
+    3300032: 715M
+    3300034: 715M.001
+    3300036: 715M.002
+    3300038: 715M.003
+    3300040: 715M.004
+    3300042: 715M.005
+    3300044: 716M
+    3300046: 718M
+    3300048: 718M.001
+    3300050: 718M.002
+    3300052: 731M
+    3300054: 731M.001
+    3300056: 733M
+    3300058: BaseCube
+    3300060: Cube
+    3300062: Human
+    3300064: Plane
+    3300066: Race_track.001
+    4300000: Race_track
+    4300002: Terrain
+    4300004: 28M (705-733)
+    4300006: Cube
+    4300008: Plane
+    4300010: 718M.002
+    4300012: BaseCube
+    4300014: 710M.001
+    4300016: 707M
+    4300018: 711M.001
+    4300020: 705M.001
+    4300022: 715M.004
+    4300024: 705M.003
+    4300026: 708M.001
+    4300028: 705M.002
+    4300030: 715M.001
+    4300032: 705M
+    4300034: 710M.002
+    4300036: 708M
+    4300038: 715M.002
+    4300040: 710M
+    4300042: Human
+    4300044: 715M.003
+    4300046: 718M.001
+    4300048: 711M
+    4300050: 715M
+    4300052: 733M
+    4300054: 716M
+    4300056: 731M
+    4300058: 718M
+    4300060: 731M.001
+    4300062: 715M.005
+    4300064: Race_track.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
